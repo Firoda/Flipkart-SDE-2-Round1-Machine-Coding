@@ -1,0 +1,95 @@
+2024-03-21 08:41:20.224 [main] DEBUG org.flipkart.Main - Hello World!
+2024-03-21 08:41:43.599 [main] DEBUG org.flipkart.Main - Hello World!
+2024-03-21 08:58:17.860 [main] DEBUG org.flipkart.Main - Hello World!
+2024-03-21 08:58:17.874 [main] DEBUG org.flipkart.Main - 1
+2024-03-21 08:58:17.874 [main] DEBUG org.flipkart.Main - 2
+2024-03-21 08:58:17.874 [main] DEBUG org.flipkart.Main - 3
+2024-03-21 08:58:17.874 [main] DEBUG org.flipkart.Main - 4
+2024-03-21 08:58:27.731 [main] DEBUG org.flipkart.Main - Hello World!
+2024-03-21 08:58:27.735 [main] DEBUG org.flipkart.Main - 1
+2024-03-21 08:58:27.735 [main] DEBUG org.flipkart.Main - 2
+2024-03-21 08:58:27.735 [main] DEBUG org.flipkart.Main - 3
+2024-03-21 08:58:27.735 [main] DEBUG org.flipkart.Main - 4
+2024-03-21 10:24:20.025 [main] DEBUG org.flipkart.Main - Hello World!
+2024-03-21 10:24:20.084 [main] DEBUG org.flipkart.Main - Feature(impactType=LOW)
+2024-03-21 11:39:49.944 [main] DEBUG org.flipkart.Main - Hello World!
+2024-03-21 11:39:50.015 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 11:39:50.015 [main] INFO  org.flipkart.service.SprintManagerService - Sprint Title: Create DashboardTask type: FEATURE
+2024-03-21 11:39:50.021 [main] INFO  org.flipkart.service.SprintManagerService - CURRENT TASK STATUS: ON TRACK
+2024-03-21 11:39:50.021 [main] ERROR org.flipkart.service.SprintManagerService - No sprint found with name: R224, returning NULL
+2024-03-21 11:39:50.021 [main] INFO  org.flipkart.service.SprintManagerService - Sprint does not exist, task completed
+2024-03-21 11:40:35.608 [main] DEBUG org.flipkart.Main - Hello World!
+2024-03-21 11:40:35.660 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 11:40:35.660 [main] INFO  org.flipkart.service.SprintManagerService - Sprint Title: Create DashboardTask Status: OPEN
+2024-03-21 11:40:35.667 [main] INFO  org.flipkart.service.SprintManagerService - CURRENT TASK STATUS: ON TRACK
+2024-03-21 11:40:35.668 [main] ERROR org.flipkart.service.SprintManagerService - No sprint found with name: R224, returning NULL
+2024-03-21 11:40:35.668 [main] INFO  org.flipkart.service.SprintManagerService - Sprint does not exist, task completed
+2024-03-21 11:43:00.495 [main] DEBUG org.flipkart.Main - Hello World!
+2024-03-21 11:43:00.526 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 11:43:00.526 [main] INFO  org.flipkart.service.SprintManagerService - Sprint Title: Create DashboardTask Status: OPEN
+2024-03-21 11:43:00.530 [main] INFO  org.flipkart.service.SprintManagerService - CURRENT TASK STATUS: ON TRACK
+2024-03-21 11:43:00.532 [main] INFO  org.flipkart.service.TaskManagerService - TASK: Create Dashboard STATUS: Create Dashboard
+2024-03-21 11:43:00.532 [main] ERROR org.flipkart.service.SprintManagerService - No sprint found with name: R224, returning NULL
+2024-03-21 11:43:00.532 [main] INFO  org.flipkart.service.SprintManagerService - Sprint does not exist, task completed
+2024-03-21 11:43:53.131 [main] DEBUG org.flipkart.Main - Hello World!
+2024-03-21 11:43:53.164 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 11:43:53.164 [main] INFO  org.flipkart.service.SprintManagerService - Sprint Title: Create DashboardTask Status: OPEN
+2024-03-21 11:43:53.167 [main] INFO  org.flipkart.service.SprintManagerService - CURRENT TASK STATUS: ON TRACK
+2024-03-21 11:43:53.168 [main] INFO  org.flipkart.service.TaskManagerService - Printing task assigned to user: Brad
+2024-03-21 11:43:53.168 [main] INFO  org.flipkart.service.TaskManagerService - TASK: Create Dashboard STATUS: Create Dashboard
+2024-03-21 11:43:53.168 [main] ERROR org.flipkart.service.SprintManagerService - No sprint found with name: R224, returning NULL
+2024-03-21 11:43:53.168 [main] INFO  org.flipkart.service.SprintManagerService - Sprint does not exist, task completed
+2024-03-21 13:15:19.952 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 13:15:19.955 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 13:15:19.955 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 13:15:19.955 [main] INFO  org.flipkart.service.TaskManagerService - Printing task assigned to user: Brad
+2024-03-21 13:15:19.955 [main] INFO  org.flipkart.service.TaskManagerService - TASK: Create Dashboard STATUS: Create Dashboard
+2024-03-21 13:15:19.955 [main] INFO  org.flipkart.service.TaskManagerService - TASK: Error handling STATUS: Error handling
+2024-03-21 13:15:19.955 [main] INFO  org.flipkart.service.TaskManagerService - Printing task assigned to user: Aditya
+2024-03-21 13:15:19.956 [main] INFO  org.flipkart.service.TaskManagerService - TASK: Story1 STATUS: Story1
+2024-03-21 13:16:03.998 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 13:16:04.001 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 13:16:04.001 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 13:16:04.001 [main] INFO  org.flipkart.service.TaskManagerService - Printing task assigned to user: Brad
+2024-03-21 13:16:04.001 [main] INFO  org.flipkart.service.TaskManagerService - TASK: Create Dashboard STATUS: OPEN
+2024-03-21 13:16:04.003 [main] INFO  org.flipkart.service.TaskManagerService - TASK: Error handling STATUS: OPEN
+2024-03-21 13:16:04.003 [main] INFO  org.flipkart.service.TaskManagerService - Printing task assigned to user: Aditya
+2024-03-21 13:16:04.003 [main] INFO  org.flipkart.service.TaskManagerService - TASK: Story1 STATUS: OPEN
+2024-03-21 13:21:15.526 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 13:21:15.529 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 13:21:15.529 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 13:21:15.529 [main] INFO  org.flipkart.service.SprintManagerService - Sprint Title: Create DashboardTask Status: OPEN
+2024-03-21 13:21:15.535 [main] INFO  org.flipkart.service.SprintManagerService - CURRENT TASK STATUS: ON TRACK
+2024-03-21 13:21:15.535 [main] INFO  org.flipkart.service.SprintManagerService - Sprint Title: Error handlingTask Status: OPEN
+2024-03-21 13:21:15.535 [main] INFO  org.flipkart.service.SprintManagerService - CURRENT TASK STATUS: DELAYED
+2024-03-21 13:21:15.537 [main] INFO  org.flipkart.service.SprintManagerService - Sprint Title: Story1Task Status: OPEN
+2024-03-21 13:21:15.537 [main] INFO  org.flipkart.service.SprintManagerService - CURRENT TASK STATUS: ON TRACK
+2024-03-21 13:23:32.417 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 13:23:32.423 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 13:23:32.423 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 13:23:32.423 [main] INFO  org.flipkart.service.SprintManagerService - Sprint Title: Create Dashboard Task Status: OPEN
+2024-03-21 13:23:32.430 [main] INFO  org.flipkart.service.SprintManagerService - CURRENT TASK STATUS: ON TRACK
+2024-03-21 13:23:32.430 [main] INFO  org.flipkart.service.SprintManagerService - Sprint Title: Error handling Task Status: OPEN
+2024-03-21 13:23:32.430 [main] INFO  org.flipkart.service.SprintManagerService - CURRENT TASK STATUS: DELAYED
+2024-03-21 13:23:32.430 [main] INFO  org.flipkart.service.SprintManagerService - Sprint Title: Story1 Task Status: OPEN
+2024-03-21 13:23:32.430 [main] INFO  org.flipkart.service.SprintManagerService - CURRENT TASK STATUS: ON TRACK
+2024-03-21 13:23:42.321 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 13:23:42.324 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 13:23:42.325 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 13:25:11.898 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 13:25:11.901 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 13:25:11.901 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 13:25:11.901 [main] INFO  org.flipkart.service.TaskManagerService - Printing task assigned to user: Brad
+2024-03-21 13:25:11.903 [main] INFO  org.flipkart.service.TaskManagerService - TASK: Create Dashboard STATUS: OPEN
+2024-03-21 13:25:11.903 [main] INFO  org.flipkart.service.TaskManagerService - TASK: Error handling STATUS: OPEN
+2024-03-21 13:25:11.903 [main] INFO  org.flipkart.service.TaskManagerService - Printing task assigned to user: Aditya
+2024-03-21 13:25:11.903 [main] INFO  org.flipkart.service.TaskManagerService - TASK: Story1 STATUS: OPEN
+2024-03-21 13:25:53.116 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 13:25:53.120 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 13:25:53.120 [main] INFO  org.flipkart.service.SprintManagerService - task added to sprint successfully
+2024-03-21 13:25:53.120 [main] INFO  org.flipkart.service.TaskManagerService - All the subtask for the given story are completed: Story1
+2024-03-21 13:25:53.120 [main] INFO  org.flipkart.service.TaskManagerService - Printing task assigned to user: Brad
+2024-03-21 13:25:53.120 [main] INFO  org.flipkart.service.TaskManagerService - TASK: Create Dashboard STATUS: OPEN
+2024-03-21 13:25:53.121 [main] INFO  org.flipkart.service.TaskManagerService - TASK: Error handling STATUS: OPEN
+2024-03-21 13:25:53.121 [main] INFO  org.flipkart.service.TaskManagerService - Printing task assigned to user: Aditya
+2024-03-21 13:25:53.121 [main] INFO  org.flipkart.service.TaskManagerService - TASK: Story1 STATUS: COMPLETED
